@@ -1,0 +1,20 @@
+.hideblock {
+    display: none;
+}
+p{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+}
+body{
+    background-color: blanchedalmond;
+}
